@@ -1,21 +1,31 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://gifimage.net/wp-content/uploads/2018/11/gif-banner-for-website-5.gif)
 <h1 align="center">Hi 👋, I'm ABHIJEET SEN</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-add Right Gif Image
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetsen2002&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetsen2002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijeetsen2002" alt="abhijeetsen2002" /></a> </p>
+
+<img align="left" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjI1Y2EyOTY2YTk2NDAyMTEyODFhZjM2NzQwMmRmNGJiNDhiMTllMSZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://d1ivubrj2a21dq.cloudfront.net/wp-content/uploads/2023/01/02152015/front-end-development.gif"><br><br>
+
+
+<br><br><br><br><br><br><br><br><br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijeetsen2002" alt="abhijeetsen2002" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<p align="center">
 - 🌱 I’m currently learning **Java script, Machine Learning, Deep Learning**
+</p>
 
+<p align="center">
 - 💬 Ask me about **HTML, CSS, Python, Java, SQL**
+</p>
 
+<p align="center">
 - 📫 How to reach me **aec.cse.abhijeetsen@gmail.com**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
