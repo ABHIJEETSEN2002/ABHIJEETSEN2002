@@ -16,7 +16,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p align="center">
-- 🌱 I’m currently learning **Java script, Machine Learning, Deep Learning**
+  <b>
+    - 🌱 I’m currently learning **Java script, Machine Learning, Deep Learning**</b>
 </p>
 
 <p align="center">
